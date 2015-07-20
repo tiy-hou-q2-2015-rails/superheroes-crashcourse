@@ -2,6 +2,8 @@
 
 We're going to build a map of Heroes
 
+![screenshot](superheroes.png)
+
 But really, this will show:
 
 * Creating databases and records
